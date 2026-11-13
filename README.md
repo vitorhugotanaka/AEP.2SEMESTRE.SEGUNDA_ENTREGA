@@ -21,4 +21,4 @@ Nesta **2ª Entrega**, o foco está na implementação prática do sistema em c�
 
 ## Documentação da 2ª Entrega
 - O relatório escrito completo contendo a matriz de requisitos atualizada, especificação de casos de uso, plano de testes integrados, manual do usuário e o código-fonte comentado está disponível na pasta [`docs/AEP_SEGUNDA-ENTREGA_2SEMESTRE.pdf`](./docs/AEP_SEGUNDA-ENTREGA_2SEMESTRE.pdf)
-- Vídeo de Demonstração (Apresentação Oral):** (https://youtu.be/-1-XDB7ir0?is=lg6TPJZ0_hrq-EqM)
+- Vídeo de Demonstração (Apresentação Oral):** ([https://youtu.be/-1-XDB7ir0?is=lg6TPJZ0_hrq-EqM](https://youtu.be/-1-_XDB7ir0?is=Ig6TPJZ0_hrq-EqM))
